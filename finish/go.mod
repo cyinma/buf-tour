@@ -1,4 +1,4 @@
-module github.com/bufbuild/buf-tour/petstore
+module github.com/cyinma/buf-tour/finish
 
 go 1.16
 
